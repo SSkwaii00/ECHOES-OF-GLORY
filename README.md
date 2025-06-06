@@ -2,6 +2,10 @@
 
 An Gacha game's developed by Little Neko Team
 
+# Description
+
+abcdefghik
+
 # Contributor
 
 1. A
