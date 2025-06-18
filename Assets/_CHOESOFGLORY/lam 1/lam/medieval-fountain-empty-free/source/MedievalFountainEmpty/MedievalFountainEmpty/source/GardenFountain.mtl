@@ -1,0 +1,27 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl GardenFountainBase2
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl GardenFountainInner3
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl GardenFountainInner2
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl GardenFountainInner1
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl GardenFountainBase
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl GardenFountainTop
+kd 0.8 0.8 0.8
+illum 1
+

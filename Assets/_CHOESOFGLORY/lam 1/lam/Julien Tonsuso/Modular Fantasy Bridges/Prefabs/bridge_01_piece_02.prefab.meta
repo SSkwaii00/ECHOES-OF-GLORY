@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28fb2ce0f62a62b419e5bb40b1c91c5e
+timeCreated: 1502960168
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99940
+  packageName: Modular Fantasy Bridges
+  packageVersion: 1.0
+  assetPath: Assets/Julien Tonsuso/Modular Fantasy Bridges/Prefabs/bridge_01_piece_02.prefab
+  uploadId: 200221

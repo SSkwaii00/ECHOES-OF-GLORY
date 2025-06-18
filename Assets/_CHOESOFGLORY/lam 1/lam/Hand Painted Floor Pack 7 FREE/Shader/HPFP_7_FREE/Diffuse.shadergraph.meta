@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 789d4a8d1e8f70d4ba0e20515c21847a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282371
+  packageName: Hand Painted Floor Pack 7 FREE
+  packageVersion: 1.0
+  assetPath: Assets/Hand Painted Floor Pack 7 FREE/Shader/HPFP_7_FREE/Diffuse.shadergraph
+  uploadId: 657240
