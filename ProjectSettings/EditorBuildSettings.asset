@@ -6,13 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/khang/scene/TeamSelectionScene.unity
-    guid: e6b4bd2764eccfc4f8ac1f1b98b857ba
+    path: Assets/_CHOESOFGLORY/Scenes/UI/MainMenu/MainMenu0.unity
+    guid: 7683adf089051d744b73124ab8e307c0
   - enabled: 1
-    path: Assets/khang/scene/CharacterSelectionScene.unity
-    guid: eeb5a92cf27a762458dcc617067ac3e3
+    path: Assets/_CHOESOFGLORY/Scenes/UI/MainMenu/Login.unity
+    guid: e608947e2b29ba848bebd34a0efaa04a
   - enabled: 1
-    path: Assets/khang/scene/BattleScene.unity
-    guid: ab112ffddb5eca6409ac74a5d7d81fc3
+    path: Assets/_CHOESOFGLORY/Scenes/UI/MainMenu/Register.unity
+    guid: f1878dbc87fbb84408bd3e42c9d862b7
+  - enabled: 1
+    path: Assets/_CHOESOFGLORY/Scenes/UI/MainMenu/ForgotPassword.unity
+    guid: 377f343b7b0c15c4d827de18c1d186c7
+  - enabled: 1
+    path: Assets/_CHOESOFGLORY/Scenes/UI/MainMenu/SendCode.unity
+    guid: cedbfd68dd1961140ad220635171b61e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
