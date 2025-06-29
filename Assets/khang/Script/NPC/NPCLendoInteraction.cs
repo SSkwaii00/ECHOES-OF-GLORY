@@ -15,7 +15,7 @@ public class NPCLendoInteraction : NPCInteraction
     "Người chơi: Quét lá thôi mà, để tôi lo!"
 };
     }
-protected override void OnAccept()
+    protected override void OnAccept()
     {
         StartCoroutine(TypeDialogue("Lendo: Cảm ơn! Đây là ca canh gác nghiêm túc đầu tiên của tôi, " +
                                     "tôi muốn mọi thứ tươm tất để không ai phàn nàn. Bạn thật tốt bụng!"));
@@ -24,7 +24,7 @@ protected override void OnAccept()
 
     protected override void OnDecline()
     {
-       // StartCoroutine(TypeDialogue("Lendo: Hiểu rồi. Tôi đang định sang tiệm rèn mượn thêm chổi, " +
+        // StartCoroutine(TypeDialogue("Lendo: Hiểu rồi. Tôi đang định sang tiệm rèn mượn thêm chổi, " +
         //                            "có lẽ phải tự xoay xở thôi."));
         base.OnDecline();
     }
