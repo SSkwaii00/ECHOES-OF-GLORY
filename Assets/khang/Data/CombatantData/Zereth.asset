@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc65c894083c144398b418bc046155c, type: 3}
+  m_Name: Zereth
+  m_EditorClassIdentifier: 
+  Name: Zereth
+  HP: 950
+  Attack: 110
+  Agility: 105
+  CritRate: 0.13
+  Element: "B\xF3ng T\u1ED1i"
+  Path: DPS
+  AttackType: 1
+  AttackRange: 1
+  SlowAmount: 0.2
+  SlowDuration: 1
+  Skills:
+  - SkillName: "\xC1m \u1EA2nh"
+    DamageMultiplier: 1
+    IsAoE: 0
+    SlowChance: 0
+    EffectPrefab: {fileID: 0}
+    SoundClip: {fileID: 0}
+    AnimationTrigger: Skill1
+    StatusEffect: 4
+    StatusEffectChance: 0.3
+    StatusEffectDuration: 1
+  - SkillName: "D\u1EA1 \u1EA2nh"
+    DamageMultiplier: 1.4
+    IsAoE: 1
+    SlowChance: 0
+    EffectPrefab: {fileID: 0}
+    SoundClip: {fileID: 0}
+    AnimationTrigger: Skill2
+    StatusEffect: 4
+    StatusEffectChance: 0.4
+    StatusEffectDuration: 2
+  - SkillName: "V\u1EF1c Th\u1EB3m"
+    DamageMultiplier: 2.1
+    IsAoE: 1
+    SlowChance: 0
+    EffectPrefab: {fileID: 0}
+    SoundClip: {fileID: 0}
+    AnimationTrigger: Ultimate
+    StatusEffect: 4
+    StatusEffectChance: 0.5
+    StatusEffectDuration: 3
+  Skill3ManaCost: 100
+  Level: 1
+  AvatarSprite: {fileID: 21300000, guid: e5fd5dbe38f33d54fba130d96d91684a, type: 3}
+  Prefab: {fileID: 1377608253698200011, guid: c68cd82996a880e4f97fe64725b91266, type: 3}

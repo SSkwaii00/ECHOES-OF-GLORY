@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0188c64b3ff75947a4e285da6cedcd4
+timeCreated: 1489413550
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 186875
+  packageName: Drakonit_monster
+  packageVersion: 1.0
+  assetPath: Assets/Drakonit_monster/Stand/Double Sided Emissive Diffuse.shader
+  uploadId: 411799

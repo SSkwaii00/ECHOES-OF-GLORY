@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 85bf9b74e3072b64e8f7e15a84fbfa2e
+timeCreated: 1489416252
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 186875
+  packageName: Drakonit_monster
+  packageVersion: 1.0
+  assetPath: Assets/Drakonit_monster/Stand/Double Sided Transparent Diffuse Bump
+    Cutout.shader
+  uploadId: 411799

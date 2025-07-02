@@ -6,13 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/khang/scene/TeamSelectionScene.unity
-    guid: e6b4bd2764eccfc4f8ac1f1b98b857ba
-  - enabled: 1
-    path: Assets/khang/scene/CharacterSelectionScene.unity
-    guid: eeb5a92cf27a762458dcc617067ac3e3
-  - enabled: 1
     path: Assets/khang/scene/BattleScene.unity
     guid: ab112ffddb5eca6409ac74a5d7d81fc3
+  - enabled: 0
+    path: Assets/khang/scene/Map.unity
+    guid: 00f3991fa70365a4a9db85ad5790b833
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

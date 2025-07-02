@@ -1,23 +1,18 @@
 ﻿using UnityEngine;
 
-public class PlayerCombatant : MonoBehaviour
+public class PlayerCombatant : Combatant
 {
-    private Combatant combatant;
-
-    void Start()
+    // Xóa override khỏi Awake
+    private void Awake()
     {
-        combatant = GetComponent<Combatant>();
-        if (combatant != null)
-        {
-            combatant.GainEnergy(10); // Thêm năng lượng
-        }
+        // Thêm logic khởi tạo riêng nếu cần
     }
 
-    void Update()
+    public override (int damage, string skillName, bool isAoE, float slowChance) CalculateDamage(int actionIndex, ICombatant target)
     {
-        if (combatant != null)
-        {
-            Debug.Log("Potential Energy: " + combatant.PotentialEnergy);
-        }
+        var (damage, skillName, isAoE, slowChance) = base.CalculateDamage(actionIndex, target);
+        // Thêm logic đặc biệt cho PlayerCombatant nếu cần (ví dụ: tăng sát thương dựa trên Energy)
+        if (Energy > 50) damage += Mathf.RoundToInt(damage * 0.1f); // Tăng 10% sát thương nếu Energy > 50
+        return (damage, skillName, isAoE, slowChance);
     }
 }
