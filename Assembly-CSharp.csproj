@@ -20,7 +20,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <NoWarn>0169;USG0001</NoWarn>
-    <DefineConstants>UNITY_6000_1_4;UNITY_6000_1;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_6000_1_4;UNITY_6000_1;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_6000_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;DOTWEEN;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -61,7 +61,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.4f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\khang\Script\Data\TeamData.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\PostProcessingProfile.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\khang\Script\nhiemVu\Mint.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCLendoInteraction.cs" />
@@ -69,11 +71,15 @@
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Doors\CircularLerp.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\MotionBlurModel.cs" />
+    <Compile Include="Assets\khang\Script\Combat\PlayerCombatant.cs" />
+    <Compile Include="Assets\khang\Script\Combat\Enemy.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\TrackballGroupAttribute.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\MoveToLayer.cs" />
+    <Compile Include="Assets\khang\Script\Combat\Combatant.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCSerelInteraction.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCFinaInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\PostProcessingComponent.cs" />
+    <Compile Include="Assets\khang\Script\Data\CombatantData.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\BuiltinDebugViewsModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\PostProcessingBehaviour.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Doors\Door.cs" />
@@ -90,38 +96,57 @@
     <Compile Include="Assets\khang\Script\nhiemVu\Book.cs" />
     <Compile Include="Assets\khang\Script\NPC\QuestManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\ChromaticAberrationComponent.cs" />
+    <Compile Include="Assets\khang\Script\Combat\CharacterSelectionManager.cs" />
+    <Compile Include="Assets\khang\Script\Combat\CombatantManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\ExposureManager\ExposureArea.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\MaterialFactory.cs" />
+    <Compile Include="Assets\khang\Script\Combat\MovementManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ExitGame.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCHarnInteraction.cs" />
+    <Compile Include="Assets\khang\Script\Combat\UIManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\UserLutComponent.cs" />
+    <Compile Include="Assets\khang\Script\Combat\DebugLogger.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\ColorGradingComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Culling\CullDistanceVolume.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+    <Compile Include="Assets\khang\Script\Combat\ICombatant.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\BushLeafTrigger.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\BloomComponent.cs" />
+    <Compile Include="Assets\khang\Script\Combat\TeamSetupManager.cs" />
     <Compile Include="Assets\khang\Script\Tool\PlayerPrefs.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCPipInteraction.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCInteraction.cs" />
+    <Compile Include="Assets\khang\Script\Combat\ResultScreen.cs" />
+    <Compile Include="Assets\khang\Script\Combat\AttackType.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\WindControl.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\MinAttribute.cs" />
+    <Compile Include="Assets\khang\Script\Combat\SkillData.cs" />
+    <Compile Include="Assets\khang\Script\Combat\EnemyTrigger.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\TaaComponent.cs" />
+    <Compile Include="Assets\khang\Script\Data\EnemyData.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\ExposureManager\ExposureManager.cs" />
+    <Compile Include="Assets\khang\Script\Combat\DamagePopup.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\WindSwaySimple.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Culling\CullDistances.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\FogModel.cs" />
+    <Compile Include="Assets\khang\Script\Combat\MapManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ButterflySpawnArea.cs" />
+    <Compile Include="Assets\khang\Script\Combat\TeamSelection.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCYunaInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ButterflySpawn.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\BuiltinDebugViewsComponent.cs" />
+    <Compile Include="Assets\khang\Script\Combat\CharacterUIManager.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCNekoInteraction.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Culling\DistanceHide.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\DitheringComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\RenderTextureFactory.cs" />
@@ -132,25 +157,33 @@
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\FogComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\AmbientOcclusionModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\MotionBlurComponent.cs" />
+    <Compile Include="Assets\khang\Script\Combat\TurnManager.cs" />
     <Compile Include="Assets\khang\Script\Player\CameraController.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\DisableRenderer.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\FPSController\CursorLock.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\AmbientOcclusionComponent.cs" />
     <Compile Include="Assets\khang\Script\Player\PlayerController.cs" />
+    <Compile Include="Assets\khang\Script\Combat\CombatManager.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\EyeAdaptationModel.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\VignetteModel.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\khang\Script\NPC\PlayerQuestHandler.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\VegetationBendControl.cs" />
+    <Compile Include="Assets\khang\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCOrenInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\ColorGradingCurve.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\khang\Drakonit_monster\Stand\Double Sided Transparent Diffuse Bump.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\ScreenSpaceReflection.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Decal.shader" />
+    <None Include="Assets\khang\Drakonit_monster\Stand\Double Sided Emissive Diffuse.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\GrainGen.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Monitors\HistogramCompute.compute" />
@@ -166,11 +199,13 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\TAA.cginc" />
+    <None Include="Assets\khang\Plugins\Demigiant\DOTween\DOTween.XML" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Monitors\VectorscopeCompute.compute" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\VertexWind.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Mountains.shader" />
+    <None Include="Assets\khang\Drakonit_monster\Stand\Double Sided Transparent Diffuse Bump Cutout.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Monitors\HistogramRender.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
@@ -181,6 +216,7 @@
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Foliage.shader" />
+    <None Include="Assets\khang\Plugins\Demigiant\DOTween\DOTween.dll" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\ACES.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\MotionBlur.cginc" />
@@ -190,6 +226,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Materials\Environment\Settings\Readme.txt" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\khang\Drakonit_monster\Stand\Double Sided Standard Diffuse Bump.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\Fog.shader" />
@@ -210,6 +247,7 @@
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\TAA.shader" />
+    <None Include="Assets\khang\Plugins\Demigiant\DOTween\readme.txt" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\Blit.shader" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\_CHOESOFGLORY\Shaders\Environment\Decal_Puddle.shader" />
@@ -696,6 +734,10 @@
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\khang\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
