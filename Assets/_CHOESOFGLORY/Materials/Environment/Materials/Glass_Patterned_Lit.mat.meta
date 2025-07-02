@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a77d7b8e315042740b21a351808a1b7e
+timeCreated: 1517001166
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Glass_Patterned_Lit.mat
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d87edf8b01b11994f9496c96c8f3ed0a
+timeCreated: 1511604303
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Junc_A.prefab
+  uploadId: 241457

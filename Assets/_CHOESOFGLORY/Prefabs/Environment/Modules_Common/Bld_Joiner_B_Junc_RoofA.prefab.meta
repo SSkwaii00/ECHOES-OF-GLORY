@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c026a15dbdfc9a4d98fbc2cde0e5312
+timeCreated: 1512842537
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Joiner_B_Junc_RoofA.prefab
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 018ce94151b61ae489a5909c3b041d06
+timeCreated: 1511462380
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Pavement_A.prefab
+  uploadId: 241457

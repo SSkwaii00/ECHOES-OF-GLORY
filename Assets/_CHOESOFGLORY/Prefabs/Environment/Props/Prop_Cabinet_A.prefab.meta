@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3d03342b83b9c9b4886bf37af9596b85
+timeCreated: 1520009230
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Cabinet_A.prefab
+  uploadId: 241457

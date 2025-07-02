@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 84113ffa45cc0f44b94c0a74bfc300a2
+timeCreated: 1513874638
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Bgr_Clouds.mat
+  uploadId: 241457

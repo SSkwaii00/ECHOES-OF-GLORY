@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86c5b6c8201d0b740b991f52bd43b6bd
+timeCreated: 1518471760
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Temple/Bld_Temple_Deco_Sun_A.prefab
+  uploadId: 241457

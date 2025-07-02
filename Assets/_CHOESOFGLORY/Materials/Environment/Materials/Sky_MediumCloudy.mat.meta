@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4221185c57274a4684e2f91cc28c031
+timeCreated: 1504605028
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Sky_MediumCloudy.mat
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 59e73689b03a00e40be37774e3c2e9d9
+timeCreated: 1517775377
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Chair_A.prefab
+  uploadId: 241457

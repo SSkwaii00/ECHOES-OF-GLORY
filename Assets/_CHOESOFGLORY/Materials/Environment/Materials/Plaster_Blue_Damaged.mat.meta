@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a168c33e6a989a46a8ba2298d203353
+timeCreated: 1504605028
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Plaster_Blue_Damaged.mat
+  uploadId: 241457

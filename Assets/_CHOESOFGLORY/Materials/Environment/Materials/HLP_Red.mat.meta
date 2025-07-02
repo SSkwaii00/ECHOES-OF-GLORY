@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c5be9deba27afa1458c58877bfafa95d
+timeCreated: 1517146866
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/HLP_Red.mat
+  uploadId: 241457

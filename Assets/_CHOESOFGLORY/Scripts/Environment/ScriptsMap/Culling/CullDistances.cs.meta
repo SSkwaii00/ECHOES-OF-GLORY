@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3c35eada6229c8040bb901d2696b907a
+timeCreated: 1520773909
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scripts/Culling/CullDistances.cs
+  uploadId: 241457

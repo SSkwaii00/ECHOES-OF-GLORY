@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d50f31ceb9c2fce48912fb7a0ad5ce2a
+timeCreated: 1519299522
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Natural/Bgr_Cliff_A_Simplified.prefab
+  uploadId: 241457

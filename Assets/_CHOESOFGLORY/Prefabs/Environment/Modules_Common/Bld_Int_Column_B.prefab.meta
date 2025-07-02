@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 912384bccd1f9c14ebd8283eb7898155
+timeCreated: 1513856528
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Int_Column_B.prefab
+  uploadId: 241457

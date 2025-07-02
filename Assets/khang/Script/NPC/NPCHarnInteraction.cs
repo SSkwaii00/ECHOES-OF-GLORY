@@ -15,7 +15,7 @@ public class NPCHarnInteraction : NPCInteraction
     "Người chơi: Chuyện nhỏ, tôi lo ngay."
 };
     }
-protected override void OnAccept()
+    protected override void OnAccept()
     {
         StartCoroutine(TypeDialogue("Harn: Đa tạ bạn! Tôi mơ một ngày mở hội chợ đồ gỗ lớn nhất vùng, " +
                                     "những chiếc ghế vững chãi thế này sẽ là điểm nhấn!"));

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 118876d7465fce940b737d3e951139e4
+timeCreated: 1521465277
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Prop_Tarp.mat
+  uploadId: 241457

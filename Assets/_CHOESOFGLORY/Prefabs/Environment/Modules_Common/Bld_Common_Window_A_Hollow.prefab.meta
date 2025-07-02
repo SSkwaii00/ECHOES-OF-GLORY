@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a619b28fd452bd944b712b375aab3f9c
+timeCreated: 1513855077
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Common_Window_A_Hollow.prefab
+  uploadId: 241457

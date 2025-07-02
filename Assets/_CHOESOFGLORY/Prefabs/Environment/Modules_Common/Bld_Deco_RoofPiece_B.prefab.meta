@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 95ddddcd8c539ec4584f863d0d45f80a
+timeCreated: 1515242691
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_RoofPiece_B.prefab
+  uploadId: 241457

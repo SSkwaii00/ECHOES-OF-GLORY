@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f16289585b95aba4d8056b5bc97db2d1
+timeCreated: 1517831001
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_TableSet_F.prefab
+  uploadId: 241457

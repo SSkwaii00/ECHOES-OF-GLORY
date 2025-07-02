@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 539274d4a4345d74fa57ccadded19ffe
+timeCreated: 1515504092
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Decals/Dec_Ornament_A.prefab
+  uploadId: 241457

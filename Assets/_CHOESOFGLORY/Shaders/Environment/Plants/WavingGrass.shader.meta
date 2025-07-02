@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bfad111c66f12cb43b455cdc449c5324
+timeCreated: 1512052220
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Resources/TerrainShaders/Details/WavingGrass.shader
+  uploadId: 241457

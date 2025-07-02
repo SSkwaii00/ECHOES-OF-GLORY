@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 11b68748fe36de94586dd86faf9a054b
+timeCreated: 1517919339
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Temple/Bld_TempleWall_HalfColumn_A.prefab
+  uploadId: 241457

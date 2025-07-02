@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9dd065d9d418c4544a7396b6e563ebac
+timeCreated: 1519672495
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Lamp_B.prefab
+  uploadId: 241457

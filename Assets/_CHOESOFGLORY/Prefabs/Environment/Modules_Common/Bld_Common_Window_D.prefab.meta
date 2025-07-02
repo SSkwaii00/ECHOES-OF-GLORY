@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 28c3d234b3cf13e4bbadc9c6e5a36d45
+timeCreated: 1515231804
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Common_Window_D.prefab
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5d54de704dee9ab44b0fc48348422c2d
+timeCreated: 1513448405
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Temple/Bld_TempleTower_Roof_A.prefab
+  uploadId: 241457

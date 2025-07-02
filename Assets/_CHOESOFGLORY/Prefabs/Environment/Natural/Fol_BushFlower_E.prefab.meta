@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ef629b08278fbec449581d7d7c117394
+timeCreated: 1515165070
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Natural/Fol_BushFlower_E.prefab
+  uploadId: 241457

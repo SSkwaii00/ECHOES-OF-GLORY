@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 95404c6d60b35a644bf61a49ca89fc4f
+timeCreated: 1519219931
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_GrainSack_B.prefab
+  uploadId: 241457

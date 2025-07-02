@@ -15,6 +15,7 @@ public abstract class NPCInteraction : MonoBehaviour
     public Button declineButton;
     public Button continueButton;
     public Button skipButton;
+    public Animator animator; // Thêm tham chiếu đến Animator
 
     [Header("Settings")]
     public float typeSpeed = 0.03f;
@@ -59,6 +60,16 @@ public abstract class NPCInteraction : MonoBehaviour
 
         InitializeDialogue();
         Debug.Log($"{npcName} khởi tạo.");
+
+        // Khởi tạo hoạt ảnh Idle
+        if (animator != null)
+        {
+            animator.Play("Idle"); // Chạy trạng thái Idle khi khởi tạo
+        }
+        else
+        {
+            Debug.LogWarning($"{npcName}: Animator reference is null. Please assign Animator in Inspector.");
+        }
     }
 
     protected virtual void Update()
@@ -141,6 +152,16 @@ public abstract class NPCInteraction : MonoBehaviour
         talkButton.SetActive(false);
         isInDialogue = true;
         currentDialogueIndex = 0;
+
+        // Kích hoạt hoạt ảnh Talking
+        if (animator != null)
+        {
+            animator.SetTrigger("StartTalking"); // Kích hoạt Trigger để chuyển sang Talking
+        }
+        else
+        {
+            Debug.LogWarning($"{npcName}: Cannot play Talking animation because Animator is null.");
+        }
 
         // Xóa và gán lại sự kiện để đảm bảo chỉ gọi cho NPC hiện tại
         acceptButton.onClick.RemoveAllListeners();
@@ -245,6 +266,12 @@ public abstract class NPCInteraction : MonoBehaviour
             talkButton.SetActive(true);
         }
 
+        // Quay lại trạng thái Idle khi kết thúc hội thoại
+        if (animator != null)
+        {
+            animator.Play("Idle"); // Chạy lại trạng thái Idle
+        }
+
         // Chỉ reset currentNPC nếu đây là NPC hiện tại
         if (currentNPC == this)
         {
@@ -294,7 +321,8 @@ public abstract class NPCInteraction : MonoBehaviour
     protected bool ValidateComponents()
     {
         if (player == null || talkButton == null || dialoguePanel == null || dialogueText == null ||
-            acceptButton == null || declineButton == null || continueButton == null || skipButton == null)
+            acceptButton == null || declineButton == null || continueButton == null || skipButton == null ||
+            animator == null) // Kiểm tra thêm Animator
         {
             Debug.LogError($"Thiếu thành phần cần thiết trên {gameObject.name}. Vui lòng kiểm tra Inspector.");
             return false;

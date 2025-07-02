@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4cb207c938e7e0d469fa8b3800a40446
+timeCreated: 1517078452
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Square_Mid_A.prefab
+  uploadId: 241457

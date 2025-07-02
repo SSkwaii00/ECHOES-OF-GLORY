@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d248d4d1588851f43a9fa18a4e6f0209
+timeCreated: 1460361871
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/PostProcessing/Resources/Shaders/LutGen.shader
+  uploadId: 241457

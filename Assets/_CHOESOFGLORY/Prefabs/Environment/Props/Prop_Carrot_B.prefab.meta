@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 17faecafa0a6be840a2c2114a0c139d2
+timeCreated: 1519221113
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Carrot_B.prefab
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0fa7223d8ca8d9d41be3cfe23c085a00
+timeCreated: 1517403861
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Buildings_Prefabbed/Bld_Medium_D_Hollow.prefab
+  uploadId: 241457

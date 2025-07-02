@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 663cd5104e3aabd4da3ecd606d76103f
+timeCreated: 1515263827
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Natural/Rock_Facing_E.prefab
+  uploadId: 241457

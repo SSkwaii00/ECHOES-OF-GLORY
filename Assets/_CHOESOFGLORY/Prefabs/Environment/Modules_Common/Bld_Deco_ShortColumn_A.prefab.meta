@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eaa69e2636e7d404787d3f812998f676
+timeCreated: 1513271196
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_ShortColumn_A.prefab
+  uploadId: 241457

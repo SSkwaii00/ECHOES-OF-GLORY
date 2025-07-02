@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c177dc43adf9b54d988bf4fc174cd43
+timeCreated: 1517066085
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/FX_CandleFlame.mat
+  uploadId: 241457

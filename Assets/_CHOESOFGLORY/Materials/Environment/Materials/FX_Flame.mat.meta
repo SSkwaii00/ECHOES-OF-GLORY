@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fc59554c87b24bf4bb342ddbc0f66f92
+timeCreated: 1517066085
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/FX_Flame.mat
+  uploadId: 241457

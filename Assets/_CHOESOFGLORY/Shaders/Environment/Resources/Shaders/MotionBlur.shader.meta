@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ab8493603d8f8e408750b81666a95f1
+timeCreated: 1468327385
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/PostProcessing/Resources/Shaders/MotionBlur.shader
+  uploadId: 241457

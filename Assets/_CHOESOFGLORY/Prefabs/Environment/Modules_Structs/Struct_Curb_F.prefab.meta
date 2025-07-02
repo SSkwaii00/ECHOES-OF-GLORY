@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 846f57b436f02034d96b7963ab1508ae
+timeCreated: 1511355159
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_F.prefab
+  uploadId: 241457

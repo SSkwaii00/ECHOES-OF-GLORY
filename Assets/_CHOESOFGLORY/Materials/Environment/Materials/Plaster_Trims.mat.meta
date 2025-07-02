@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c21470be2e1eea945b2dd93d5cbcf54a
+timeCreated: 1508073137
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Plaster_Trims.mat
+  uploadId: 241457

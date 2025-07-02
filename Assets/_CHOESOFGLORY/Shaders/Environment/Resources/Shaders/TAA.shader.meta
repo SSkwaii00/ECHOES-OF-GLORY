@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec6c5af987867f54aa08fba81ee279bd
+timeCreated: 1472807140
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/PostProcessing/Resources/Shaders/TAA.shader
+  uploadId: 241457

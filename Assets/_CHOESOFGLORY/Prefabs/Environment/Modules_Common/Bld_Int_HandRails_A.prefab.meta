@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2d37d4e903c0d94bbab5c4857e4972b
+timeCreated: 1513857307
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Int_HandRails_A.prefab
+  uploadId: 241457

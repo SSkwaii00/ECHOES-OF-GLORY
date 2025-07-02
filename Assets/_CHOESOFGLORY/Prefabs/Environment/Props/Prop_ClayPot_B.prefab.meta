@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8fa1467ff74b5734db24b80cb3e22e4a
+timeCreated: 1511348386
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_ClayPot_B.prefab
+  uploadId: 241457

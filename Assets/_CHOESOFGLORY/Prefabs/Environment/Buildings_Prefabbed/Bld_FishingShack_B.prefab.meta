@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 30bc08731236a7144b912e18c0f9f9c9
+timeCreated: 1515258209
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Buildings_Prefabbed/Bld_FishingShack_B.prefab
+  uploadId: 241457

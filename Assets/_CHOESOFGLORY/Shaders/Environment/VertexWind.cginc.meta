@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8581334c520b3404c84c8bc960120403
+timeCreated: 1514934376
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Shaders/VertexWind.cginc
+  uploadId: 241457

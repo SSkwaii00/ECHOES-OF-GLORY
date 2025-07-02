@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af7674e436fe1454f8209b5a4ac9bb74
+timeCreated: 1519293629
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Curb_A_Half.prefab
+  uploadId: 241457
