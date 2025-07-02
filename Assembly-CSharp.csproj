@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9FD42E81-6FEF-0802-C251-F17249F06016}</ProjectGuid>
+    <ProjectGuid>{26B18C52-A822-1B3A-8EE6-BC5F34A53D1A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,15 +67,10 @@
     <Compile Include="Assets\khang\Script\NPC\NPCLendoInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\GetSetAttribute.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\Base\HitboxComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Doors\CircularLerp.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\MotionBlurModel.cs" />
-    <Compile Include="Assets\khang\Script\Combat\PlayerCombatant.cs" />
-    <Compile Include="Assets\khang\Script\enemy\TheNightbringer.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\TrackballGroupAttribute.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\MoveToLayer.cs" />
-    <Compile Include="Assets\khang\Script\Combat\Combatant.cs" />
-    <Compile Include="Assets\khang\Script\Character\Astra.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCSerelInteraction.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCFinaInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\PostProcessingComponent.cs" />
@@ -92,12 +87,9 @@
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Doors\CursorManager.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCOrlinInteraction.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\Health.cs" />
     <Compile Include="Assets\khang\Script\nhiemVu\Book.cs" />
-    <Compile Include="Assets\khang\Script\enemy\Azrael.cs" />
     <Compile Include="Assets\khang\Script\NPC\QuestManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\ChromaticAberrationComponent.cs" />
-    <Compile Include="Assets\khang\Script\Combat\CharacterSelectionManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\ExposureManager\ExposureArea.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\VignetteComponent.cs" />
@@ -114,57 +106,40 @@
     <Compile Include="Assets\khang\Script\NPC\NPCPipInteraction.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\WindControl.cs" />
-    <Compile Include="Assets\khang\Script\enemy\EnemyData.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\MinAttribute.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\UI\PlayerHealthbar.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\UI\Healthbar.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\TaaComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\DepthOfFieldComponent.cs" />
-    <Compile Include="Assets\khang\Script\enemy\Enemy.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\ExposureManager\ExposureManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\WindSwaySimple.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Culling\CullDistances.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
-    <Compile Include="Assets\khang\Script\Character\Seven.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ButterflySpawnArea.cs" />
-    <Compile Include="Assets\khang\Script\Combat\TeamSelection.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCYunaInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ButterflySpawn.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\BuiltinDebugViewsComponent.cs" />
-    <Compile Include="Assets\khang\Script\Combat\EnemyCombatantBase.cs" />
     <Compile Include="Assets\khang\Script\NPC\NPCNekoInteraction.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\Culling\DistanceHide.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\DitheringComponent.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\Base\HealthComponent.cs" />
-    <Compile Include="Assets\khang\Script\enemy\DarkWarrior.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\EyeAdaptationComponent.cs" />
-    <Compile Include="Assets\khang\Script\Character\Hugo.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\ScreenSpaceReflectionModel.cs" />
-    <Compile Include="Assets\khang\Script\enemy\RiftHorror.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\FogComponent.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Demo\Scripts\DemoDummy.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\AmbientOcclusionModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\MotionBlurComponent.cs" />
-    <Compile Include="Assets\khang\Script\enemy\DarkMage.cs" />
     <Compile Include="Assets\khang\Script\Player\CameraController.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\DisableRenderer.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\ScriptsMap\FPSController\CursorLock.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Components\AmbientOcclusionComponent.cs" />
-    <Compile Include="Assets\khang\Script\Combat\CombatantData.cs" />
     <Compile Include="Assets\khang\Script\Player\PlayerController.cs" />
-    <Compile Include="Assets\khang\Script\Character\SilasThorne.cs" />
-    <Compile Include="Assets\khang\Script\Combat\CombatManager.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Models\VignetteModel.cs" />
-    <Compile Include="Assets\khang\Ilumisoft\Health System\Scripts\Hitbox.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\khang\Script\NPC\PlayerQuestHandler.cs" />
     <Compile Include="Assets\_CHOESOFGLORY\Scripts\Environment\VegetationBendControl.cs" />
@@ -729,18 +704,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Android.Types">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.1.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Android.Gradle">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.1.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.1.4f1\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
