@@ -434,7 +434,7 @@ public class CombatManager : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene("Map");
+            SceneManager.LoadScene("Hau_Test");
         }
     }
 
