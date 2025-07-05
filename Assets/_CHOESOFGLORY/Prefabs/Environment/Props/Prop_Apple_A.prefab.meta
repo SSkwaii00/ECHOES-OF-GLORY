@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 08a468d3721f9b442b4fdaf7f1aabb1d
+timeCreated: 1519214700
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Apple_A.prefab
+  uploadId: 241457

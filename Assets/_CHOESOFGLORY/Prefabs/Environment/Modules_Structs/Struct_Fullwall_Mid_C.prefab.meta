@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6f5dfe200c2d9304d9becd5682949cd8
+timeCreated: 1515759798
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Fullwall_Mid_C.prefab
+  uploadId: 241457

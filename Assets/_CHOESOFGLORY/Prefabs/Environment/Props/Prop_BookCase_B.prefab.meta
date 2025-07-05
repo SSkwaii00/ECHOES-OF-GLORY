@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2902e212c68388d4c8574293809001c8
+timeCreated: 1517837568
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_BookCase_B.prefab
+  uploadId: 241457

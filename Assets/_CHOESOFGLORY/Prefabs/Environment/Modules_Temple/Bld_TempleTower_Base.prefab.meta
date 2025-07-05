@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fa3d525781eb87a4e96620fd9ea6b60b
+timeCreated: 1513448396
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Temple/Bld_TempleTower_Base.prefab
+  uploadId: 241457

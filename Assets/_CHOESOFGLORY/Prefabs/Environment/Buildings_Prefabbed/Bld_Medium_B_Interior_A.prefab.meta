@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b715b1a6b338fa04eb1708f2b76bc901
+timeCreated: 1517403861
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Buildings_Prefabbed/Bld_Medium_B_Interior_A.prefab
+  uploadId: 241457

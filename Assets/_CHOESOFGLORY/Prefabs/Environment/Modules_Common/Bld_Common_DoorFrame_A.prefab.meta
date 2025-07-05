@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6e9b1157f3e73204ea2def54fd63efa8
+timeCreated: 1518349853
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Common_DoorFrame_A.prefab
+  uploadId: 241457

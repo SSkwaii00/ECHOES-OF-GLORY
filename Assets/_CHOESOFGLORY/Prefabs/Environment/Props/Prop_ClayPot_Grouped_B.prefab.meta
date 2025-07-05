@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 468b73b2e868ac14788af10cbba31f50
+timeCreated: 1519064131
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_ClayPot_Grouped_B.prefab
+  uploadId: 241457

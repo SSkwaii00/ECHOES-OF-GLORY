@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c217f99a84b3ef341b8ab84f8a5fe4db
+timeCreated: 1510427526
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Shaders/Clouds.shader
+  uploadId: 241457

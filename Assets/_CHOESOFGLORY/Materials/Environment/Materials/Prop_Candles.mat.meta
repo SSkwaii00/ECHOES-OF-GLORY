@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3107dfe9bc27fdc4d9f79929d77c78d8
+timeCreated: 1517056547
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Prop_Candles.mat
+  uploadId: 241457

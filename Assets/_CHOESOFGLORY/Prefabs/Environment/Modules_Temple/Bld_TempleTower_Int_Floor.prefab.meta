@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe3238515184e224b9552fc0a8196097
+timeCreated: 1513448398
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Temple/Bld_TempleTower_Int_Floor.prefab
+  uploadId: 241457

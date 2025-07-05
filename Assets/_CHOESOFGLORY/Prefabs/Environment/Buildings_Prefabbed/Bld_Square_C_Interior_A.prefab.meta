@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a325491e474d7d4ba4f438bd05b455c
+timeCreated: 1517404014
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Buildings_Prefabbed/Bld_Square_C_Interior_A.prefab
+  uploadId: 241457

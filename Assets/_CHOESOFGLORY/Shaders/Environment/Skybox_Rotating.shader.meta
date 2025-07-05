@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0e7ea34a1cf24cb4e88994deec799169
+timeCreated: 1510699744
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Shaders/Skybox_Rotating.shader
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5d59e481293933f499fa62af989e84e7
+timeCreated: 1517170231
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Int_HandRails_A_Long.prefab
+  uploadId: 241457

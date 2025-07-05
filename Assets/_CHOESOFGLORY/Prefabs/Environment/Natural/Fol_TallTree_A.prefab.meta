@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec813b2a17b6a484fa3b309eb1bb3c53
+timeCreated: 1511104143
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Natural/Fol_TallTree_A.prefab
+  uploadId: 241457

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2ab9bdba8c7f4ec4c9a5e09a943ec171
+timeCreated: 1520006193
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scripts/Doors/Door.cs
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e407a9b9a74b89444a4ae4528203cb01
+timeCreated: 1519122546
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_OvenSet_A.prefab
+  uploadId: 241457

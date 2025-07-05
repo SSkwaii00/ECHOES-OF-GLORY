@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea4ff8090a227114187b25c3b9a88da0
+timeCreated: 1515485384
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Dec_Puddle_A.mat
+  uploadId: 241457

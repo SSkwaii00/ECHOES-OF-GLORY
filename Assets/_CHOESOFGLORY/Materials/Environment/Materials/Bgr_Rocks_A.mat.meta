@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f43aa6d265568c45ba10181d8c8e77b
+timeCreated: 1522587895
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Bgr_Rocks_A.mat
+  uploadId: 241457

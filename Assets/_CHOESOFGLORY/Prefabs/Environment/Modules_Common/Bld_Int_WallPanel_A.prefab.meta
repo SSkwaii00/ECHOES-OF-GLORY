@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aa2de188789e193499684267fc261990
+timeCreated: 1516704773
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Int_WallPanel_A.prefab
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7cea2ccc4927bef4da60672880950fae
+timeCreated: 1516284805
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Deco_Slab_H.prefab
+  uploadId: 241457

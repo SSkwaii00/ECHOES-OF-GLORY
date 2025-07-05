@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2849f0d5d2ca0ff41bc9754cfaea9da5
+timeCreated: 1504605028
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Bgr_ErrodedCliff_A.mat
+  uploadId: 241457

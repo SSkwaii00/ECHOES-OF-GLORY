@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4ff1686fce48304a9c13dc6ee45d26d
+timeCreated: 1504605028
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Clay_Tiling.mat
+  uploadId: 241457

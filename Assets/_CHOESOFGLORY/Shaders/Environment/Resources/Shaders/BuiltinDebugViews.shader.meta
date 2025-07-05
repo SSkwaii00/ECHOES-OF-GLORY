@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72127ba7dd8c6b04bb3f29c7ee669813
+timeCreated: 1468224802
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/PostProcessing/Resources/Shaders/BuiltinDebugViews.shader
+  uploadId: 241457

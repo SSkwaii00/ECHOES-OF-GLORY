@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15a7914f21b99bd4db7014b88d381519
+timeCreated: 1510567467
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Roughbench_A.prefab
+  uploadId: 241457

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4b6a25680c015747aca3381170344c1
+timeCreated: 1508073137
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Temple_Trims.mat
+  uploadId: 241457

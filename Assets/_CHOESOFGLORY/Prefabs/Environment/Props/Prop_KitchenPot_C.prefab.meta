@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 04113d4a773cc2e459f4fd585ee23f78
+timeCreated: 1519127389
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenPot_C.prefab
+  uploadId: 241457

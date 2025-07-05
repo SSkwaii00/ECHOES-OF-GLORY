@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da2c2ea6d42ed1f46bb48297767250f0
+timeCreated: 1510262606
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Shaders/VertexBlend.shader
+  uploadId: 241457

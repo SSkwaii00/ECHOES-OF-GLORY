@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a33ce3484f54d6b478d63f0812eb5ec6
+timeCreated: 1522149507
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Bgr_DistantBuildings.mat
+  uploadId: 241457

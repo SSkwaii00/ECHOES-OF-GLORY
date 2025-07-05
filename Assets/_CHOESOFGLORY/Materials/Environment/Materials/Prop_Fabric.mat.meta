@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 90007ce0277f74f4c9e0f795ddb1ae91
+timeCreated: 1517748794
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Prop_Fabric.mat
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eecf14f5a3c167f45bb2d897c7917e9b
+timeCreated: 1517403861
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Buildings_Prefabbed/Bld_Medium_C.prefab
+  uploadId: 241457

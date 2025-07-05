@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 11b40aea5b33e9446bef60ffba394d6d
+timeCreated: 1519127392
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_KitchenFlower_B.prefab
+  uploadId: 241457

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a80d70d9a8d0da4190bc16ec5ac0ff2
+timeCreated: 1516704812
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Common/Bld_Int_Beam_A.prefab
+  uploadId: 241457

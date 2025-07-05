@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: abf817be8f59d434cab1bd8c5b012dc9
+timeCreated: 1519388373
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Prop_WoodLogs.mat
+  uploadId: 241457

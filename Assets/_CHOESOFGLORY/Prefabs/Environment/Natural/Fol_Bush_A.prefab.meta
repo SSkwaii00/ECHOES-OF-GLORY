@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 063f88761ae7bde4d8cd7149d0f9edda
+timeCreated: 1512513766
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Natural/Fol_Bush_A.prefab
+  uploadId: 241457

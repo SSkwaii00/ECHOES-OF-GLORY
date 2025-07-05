@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2ff2fd1976ddc0409caf153dee475d4
+timeCreated: 1508073039
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Plaster_Red_Temple.mat
+  uploadId: 241457

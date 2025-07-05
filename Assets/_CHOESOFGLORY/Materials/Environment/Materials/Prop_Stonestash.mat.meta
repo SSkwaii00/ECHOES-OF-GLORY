@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8c3a0ded5e636c4abafc021709bba5d
+timeCreated: 1515871475
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Prop_Stonestash.mat
+  uploadId: 241457

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a4e0a4254d104b4fa456e28acc49cc1
+timeCreated: 1504605028
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Content/Meshes/Main/Materials/Bgr_Mountains.mat
+  uploadId: 241457

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccb2e0e4cd86b1e49837661f7dcf8769
+timeCreated: 1510565726
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Modules_Structs/Struct_Rail_Mid_A.prefab
+  uploadId: 241457

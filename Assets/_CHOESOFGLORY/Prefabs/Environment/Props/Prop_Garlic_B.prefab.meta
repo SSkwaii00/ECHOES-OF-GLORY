@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c49aa001d1326a41b72323704ac7410
+timeCreated: 1519379818
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Prefabs/Props/Prop_Garlic_B.prefab
+  uploadId: 241457

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d89469544dfa214eabdbf37fca76f40
+timeCreated: 1474297975
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/PostProcessing/Resources/Shaders/Blit.shader
+  uploadId: 241457
